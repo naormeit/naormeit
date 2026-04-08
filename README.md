@@ -1,49 +1,51 @@
-# Hi, I'm Naorem Ngathoiba Singh 👋
+# Hi, I'm Naorem Ngathoiba Singh 👋 
+### Full-Stack AI & Autonomous Systems Engineer 
 
-### Full-Stack AI Engineer & Autonomous Systems Developer
-I build high-performance digital ecosystems that bridge the gap between complex AI models and real-world reliability. Currently a Computer Science student at **Alliance University (Kalvium SPE)**, focusing on Software Product Engineering.
-
----
-
-## 🚀 What I’m Working On
-- **ReliaDrop:** Engineering an AI-powered logistics engine to solve geospatial reliability in food delivery.
-- **Aether AI:** Developing a multi-model orchestration platform for seamless AI workflow automation.
-- **ParkHub Vision:** Refining autonomous navigation and sensor integration for robotics.
-- **GSoC:** Actively contributing to open-source ecosystems (2026 & 2027).
+I specialize in building **Self-Evolving Systems** and **AI Orchestration Layers**. My work spans from high-level LLM protocols to low-level autonomous robotics navigation.
 
 ---
 
-## 🛠 My Technical Arsenal
+## 🏗️ Core Engineering Pillars
 
-| Category | Tools & Technologies |
+### 🧠 AI & LLM Orchestration
+* **[AETHER-AI](https://github.com/naormeit/AETHER-AI)**: A multi-model orchestration platform designed for seamless AI workflow automation.
+* **[Loom-Protocol](https://github.com/naormeit/Loom-Protocol)**: Advanced communication layer for decentralized AI agents and protocols.
+* **[Sahayak-OpenEnv-Meta](https://github.com/naormeit/Sahayak-OpenEnv-Meta)**: Exploring open environments for meta-learning and AI assistant integration.
+
+### 🤖 Autonomous Systems & Robotics
+* **[ParkHub-Vision-Robotics](https://github.com/naormeit/ParkHub-Vision-Robotics)**: Computer vision-based autonomous navigation and sensor fusion for smart parking ecosystems.
+* **[Paytm-Sahayak-AI](https://github.com/naormeit/Paytm-Sahayak-AI-)**: AI-driven financial assistant leveraging predictive modeling.
+
+### 📱 Product Engineering (Full-Stack)
+* **[HabitStack-AI-App](https://github.com/naormeit/HabitStack-AI-App)**: A productivity ecosystem using behavioral AI to optimize user habits.
+* **[Expense-Master](https://github.com/naormeit/Expense-Master)**: Real-time financial tracking engine focused on high-performance data visualization.
+
+---
+
+## 🛠️ Technical Stack
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, C++, SQL |
-| **AI & ML** | LLM Orchestration, RAG, TensorFlow, Computer Vision, NLP |
-| **Full-Stack** | Next.js, React, Node.js, Tailwind CSS, PostgreSQL |
-| **Robotics/IoT** | Autonomous Navigation, Sensor Fusion (Antigravity/Trea) |
-| **DevOps/Tools** | Git, Docker, Vercel, Firebase |
+| **Intelligence** | LLM Orchestration, RAG, Meta-Learning, Computer Vision, Python |
+| **Systems** | Robotics (Antigravity/Trea), C++, Autonomous Navigation |
+| **Frontend** | Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, FastAPI, PostgreSQL, Redis, Docker |
 
 ---
 
-## 📊 Engineering Metrics
-![Naorem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naormeit&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naormeit&layout=compact&theme=transparent&hide_border=true)
+## 📈 Engineering Activity
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=naormeit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naormeit&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
-## 🏆 Featured Repositories
-* **[ReliaDrop](https://github.com/naormeit/ReliaDrop---Food-Delivery-Analyst)**: Reliability analysis for high-stakes logistics.
-* **[Aether AI](https://github.com/naormeit/AETHER-AI)**: The backbone for multi-model AI applications.
-* **[LogoMotion-AI](https://github.com/naormeit/LogoMotion-AI-)**: Generative AI tool for design automation.
-
----
-
-## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/naormeit](https://www.linkedin.com/in/naoremnganthoiba) 
-- **Instagram:** [@naormeit](https://instagram.com/naormeit)
+## 🌐 Connectivity
+[LinkedIn](https://www.linkedin.com/in/naoremnganthoiba) | [Instagram](https://instagram.com/naormeit) | [GSoC Contributions](https://github.com/naormeit)
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
