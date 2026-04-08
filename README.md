@@ -35,8 +35,9 @@ I specialize in building **Self-Evolving Systems** and **AI Orchestration Layers
 
 ## 📈 Engineering Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=naormeit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naormeit&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=naormeit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Naorem's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naormeit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
