@@ -39,8 +39,7 @@ I build high-performance digital ecosystems that bridge the gap between complex 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/naormeit](https://www.linkedin.com/in/naormeit) *(Highly recommended to add this link)*
-- **Portfolio:** [Your Portfolio Link Here]
+- **LinkedIn:** [linkedin.com/in/naormeit](https://www.linkedin.com/in/naoremnganthoiba) 
 - **Instagram:** [@naormeit](https://instagram.com/naormeit)
 
 ---
